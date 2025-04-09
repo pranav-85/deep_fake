@@ -1,0 +1,26 @@
+# Ignore all .zip files
+*.zip
+
+# Ignore all .mp4 video files
+*.mp4
+
+# Ignore folders (e.g., extracted video frames)
+fake/
+real/
+split_dataset/
+YouTube-real/
+papers/
+__MACOSX/
+.DS_Store
+
+# Ignore system files
+Thumbs.db
+desktop.ini
+
+# Ignore Python cache and environment stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
