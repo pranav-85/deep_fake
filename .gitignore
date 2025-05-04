@@ -1,5 +1,6 @@
 # Ignore all .zip files
 *.zip
+*.pth
 
 # Ignore all .mp4 video files
 *.mp4
